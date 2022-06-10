@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/virtuosaReact/static/css/main.8ec3dab0.css",
+    "main.js": "/virtuosaReact/static/js/main.063a8d9d.js",
+    "static/media/ropaIndex.svg": "/virtuosaReact/static/media/ropaIndex.270c19e6d8928bfe6460.svg",
+    "static/media/makeupIndex.svg": "/virtuosaReact/static/media/makeupIndex.46f8869271eff9a95d14.svg",
+    "static/media/logo 1.svg": "/virtuosaReact/static/media/logo 1.020c242dcc8e2dc756a6ff88a47cfdcd.svg",
+    "index.html": "/virtuosaReact/index.html",
+    "main.8ec3dab0.css.map": "/virtuosaReact/static/css/main.8ec3dab0.css.map",
+    "main.063a8d9d.js.map": "/virtuosaReact/static/js/main.063a8d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ec3dab0.css",
+    "static/js/main.063a8d9d.js"
+  ]
+}
